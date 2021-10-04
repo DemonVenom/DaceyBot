@@ -14,5 +14,4 @@ DaceyBot will display Dacey pictures whenever the "$dacey" command is used
 
 DaceyBot will also display Dacey pictures whenever the following Dacey nicknames are used in a server: "dacey", "dack", "decay", "dacky", "dace", "dacku" and "dog doin" (as in the "what da dog doin" meme)
 
-Praise Dacey!
-![dacey.png](https://imgur.com/u67JIEj)
+Praise ![Dacey!](https://imgur.com/u67JIEj)
