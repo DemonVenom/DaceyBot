@@ -1,5 +1,5 @@
 # DaceyBot
-Python Discord bot that returns pictures of my girlfriend's dog Dacey
+Python Discord bot that returns pictures of my friend's dog Dacey
 
 
 # Instructions for Installation
